@@ -1,6 +1,6 @@
 <h1>Fixing No Audio/Dummy Output/No Output Device On All Chromebooks</h1>
 
-<p>Here is a solution to this common issue. This is a simple and fast way to fix audio issues.</p>
+<p>Here is a solution to this common issue. This is a simple and fast way to fix audio issues. <b>This works on all chromebooks that can run Linux (not Crouton)</b></p>
 
 <h2>How To Fix</h2>
 <h3>1. Download the asound.state file</h3>
